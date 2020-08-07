@@ -7,8 +7,8 @@
 [![stars](https://img.shields.io/github/stars/HollowMan6/Childhood-s-VB-Programs?style=social)](../../stargazers)
 [![forks](https://img.shields.io/github/forks/HollowMan6/Childhood-s-VB-Programs?style=social)](../../network/members)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
+[![Open Source Love](https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html)](https://hollowman6.github.io/fund.html)
+[![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/Childhood-s-VB-Programs.svg)](../../archive/master.zip)
 
 这些是我小学到初中的时候用Visual Basic写的一些小程序，上传到此仓库以作纪念。
